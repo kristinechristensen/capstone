@@ -1,0 +1,6 @@
+USE cyber_ta_db;
+
+CREATE TABLE students (
+  id INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
+  name VARCHAR(50) NOT NULL
+);
