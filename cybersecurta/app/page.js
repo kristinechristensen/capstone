@@ -17,7 +17,7 @@ export default function Home() {
         />
       </div>
       <div className={styles.center}>
-      <p className={styles.title1}>Coming Summer 2024!</p>
+      <p className={styles.title1}>Coming Summer 2024!!</p>
       </div>
 
       
